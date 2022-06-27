@@ -24,7 +24,7 @@
     "lint-staged": "13.0.3",
     "prettier": "2.7.1",
     "typescript": "4.7.4",
-    "vite": "2.9.12",
+    "vite": "2.9.13",
     "vite-plugin-chrome-extension": "0.0.7",
     "vue-tsc": "0.38.2"
   },
